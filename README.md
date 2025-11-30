@@ -18,7 +18,7 @@ Aqui você encontra o script **DDL (Data Definition Language)** responsável por
 
 | Arquivo | Descrição |
 |--------|-----------|
-| **DDL_Limpo.sql** | Script contendo somente os comandos **CREATE TABLE** do banco |
+| **DDL.sql** | Script contendo somente os comandos **CREATE TABLE** do banco |
 
 ---
 
@@ -44,7 +44,7 @@ Essas tabelas são usadas para praticar:
 
 ## 🚀 Como usar este repositório
 
-1. Baixe o arquivo `DDL_Limpo.sql`
+1. Baixe o arquivo `DDL.sql`
 2. Abra no SQL Server Management Studio ou Azure Data Studio
 3. Execute o script para criar o banco `SUCOS_VENDAS`
 4. Comece a treinar suas consultas!
